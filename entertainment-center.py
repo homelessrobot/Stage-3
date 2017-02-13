@@ -4,7 +4,7 @@ import fresh_tomatoes
 
 #Defining 6 instances of the Movie class
 inception = media.Movie("Inception", 
-                        "A story about a man that’s assembling a team of people in the black market of the dream world.", 
+                        "A story about a man that's assembling a team of people in the black market of the dream world.", 
                         "https://www.movieposter.com/posters/archive/main/101/MPW-50904", 
                         "https://www.youtube.com/watch?v=YoHD9XEInc0")
 
@@ -19,8 +19,8 @@ shawshank_redemption = media.Movie("Shawshank Redemption",
                                   "https://www.youtube.com/watch?v=6hB3S9bIaco")
 
 the_godfather = media.Movie("The Godfather",
-                           "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
-                           "https://s-media-cache-ak0.pinimg.com/736x/40/b4/21/40b421c7cfe1b3059d5e50d79e968270.jpg"
+                           "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+                           "https://s-media-cache-ak0.pinimg.com/736x/40/b4/21/40b421c7cfe1b3059d5e50d79e968270.jpg",
                            "https://www.youtube.com/watch?v=sY1S34973zA")
 
 twelve_angry_men = media.Movie("12 Angry Men",
